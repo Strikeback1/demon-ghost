@@ -1,5 +1,7 @@
 body{
 background-image: url(../phoenix.jpg);
+/*background-repeat: repeat;*/
+background-size: cover;
    }
 h1{
     color: #FFD700;
